@@ -51,3 +51,12 @@ shift + enter :현재 셀 실행 + 다음 행 추가
   
 
 range 함수
+
+
+
+외부 라이브러리 설치하기
+필요한 외부 라이브러리 있을 시 pip 사용
+pip install 라이브러리명(현재 가상환경에 설치됨)
+	 pip install oracledb
+	현재 가상환경 -> venv...
+pip uninstall 라이브러리명
